@@ -5,6 +5,14 @@ header{
     margin-bottom: 40px;
 }
 
+body{
+   margin: 0 auto;
+   padding: 0 50px;
+
+
+    
+}
+
 .img img{
     width: 60px;
 }
